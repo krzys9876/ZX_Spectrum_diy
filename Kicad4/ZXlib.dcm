@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC32
+D Quad Or 2 inputs
+K TTL Or2
+$ENDCMP
+#
+$CMP 74LS32
+D Quad Or 2 inputs
+K TTL Or2
+$ENDCMP
+#
+#End Doc Library
